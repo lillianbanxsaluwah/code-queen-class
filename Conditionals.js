@@ -74,37 +74,37 @@
 
 
 
-// implementing switch including the operation of an elevator
-//SWITCH
+//implementing switch including the operation of an elevator
+//SWITCH-ASSIGNIMENT
 
-// const elevator = 1;
-// switch(elevator){
+const elevator = 1;
+switch(elevator){
 
-//    case 5:
-//          console.log('Elevator  5 and its coming');
-//   break;
+   case 5:
+         console.log('Elevator  5 and its coming');
+  break;
 
-//   case 4:
-//          console.log('Elevator 4 and itscoming');
-//   break;
+  case 4:
+         console.log('Elevator 4 and itscoming');
+  break;
 
-//   case 3:
-//          console.log(' Elevator 3 and its coming');
-//   break;
+  case 3:
+         console.log(' Elevator 3 and its coming');
+  break;
    
-//   case 2:
-//          console.log('Elevator 2 the elevator is soon reaching ')
+  case 2:
+         console.log('Elevator 2 the elevator is soon reaching ')
 
-//   case 1:
-//         console.log('Elevator has reached you at 1 and the doors are open');
-//   break;
+  case 1:
+        console.log('Elevator has reached you at 1 and the doors are open');
+  break;
 
-//   default:
-//        console.log('all will be ouk lets wait for  it');
+  default:
+       console.log('all will be ouk lets wait for  it');
 
 
 
-// }
+}
 
 
 // for loop
@@ -143,8 +143,8 @@
 
 
 
-    //For In *to iterate over arrays and objects
-    var names =["Purity","Lillian","V3ron"]
-    for(var i in names ){
-        console.log(names[i])
-    }
+    // //For In *to iterate over arrays and objects
+    // var names =["Purity","Lillian","V3ron"]
+    // for(var i in names ){
+    //     console.log(names[i])
+    // }
